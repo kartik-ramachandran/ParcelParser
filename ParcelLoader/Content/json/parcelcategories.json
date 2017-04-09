@@ -1,0 +1,43 @@
+﻿{
+  "d": [
+    {
+      "MinLength": "1",
+      "MinBreadth": "1",
+      "MinHeight": "1",
+      "Length": "210",
+      "Breadth": "280",
+      "Height": "130",
+      "Weight": "25",
+      "WeightMetrics": "kg",
+      "ParcelMetrics": "mm",
+      "Cost": "5.00",
+      "Type": "Small Package"
+    },
+    {
+      "MinLength": "211",
+      "MinBreadth": "281",
+      "MinHeight": "131",
+      "Length": "280",
+      "Breadth": "390",
+      "Height": "180",
+      "Weight": "25",
+      "WeightMetrics": "kg",
+      "ParcelMetrics": "mm",
+      "Cost": "7.50",
+      "Type": "Medium Package"
+    },
+    {
+      "MinLength": "281",
+      "MinBreadth": "391",
+      "MinHeight": "181",
+      "Length": "380",
+      "Breadth": "550",
+      "Height": "200",
+      "Weight": "25",
+      "WeightMetrics": "kg",
+      "ParcelMetrics": "mm",
+      "Cost": "8.50",
+      "Type": "Large Package"
+    }
+  ]
+}
